@@ -1,0 +1,182 @@
+[
+    {
+        "validSupervisor": {
+            "name": "Arjun Mehta",
+            "email": "arjun.sup@yopmail.com",
+            "password": "Password@101",
+            "phone": "9876543210",
+            "address": "Mumbai, Maharashtra"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Priya Sharma",
+            "email": "priya.work@yopmail.com",
+            "password": "Password@202",
+            "phone": "8765432109",
+            "address": "Delhi, NCR"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Rahul Verma",
+            "email": "rahul.v@yopmail.com",
+            "password": "Password@303",
+            "phone": "7654321098",
+            "address": "Bangalore, Karnataka"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Ananya Iyer",
+            "email": "ananya.i@yopmail.com",
+            "password": "Password@404",
+            "phone": "6543210987",
+            "address": "Chennai, Tamil Nadu"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Vikram Singh",
+            "email": "vikram.s@yopmail.com",
+            "password": "Password@505",
+            "phone": "9988776655",
+            "address": "Jaipur, Rajasthan"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Sneha Reddy",
+            "email": "sneha.r@yopmail.com",
+            "password": "Password@606",
+            "phone": "8877665544",
+            "address": "Hyderabad, Telangana"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Amit Das",
+            "email": "amit.das@yopmail.com",
+            "password": "Password@707",
+            "phone": "7766554433",
+            "address": "Kolkata, West Bengal"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Rohan Joshi",
+            "email": "rohan.j@yopmail.com",
+            "password": "Password@808",
+            "phone": "6655443322",
+            "address": "Pune, Maharashtra"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Meera Nair",
+            "email": "meera.n@yopmail.com",
+            "password": "Password@909",
+            "phone": "9123456780",
+            "address": "Kochi, Kerala"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Siddharth Malhotra",
+            "email": "sid.m@yopmail.com",
+            "password": "Password@111",
+            "phone": "8123456789",
+            "address": "Chandigarh, Punjab"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Ishita Gupta",
+            "email": "ishita.g@yopmail.com",
+            "password": "Password@222",
+            "phone": "7123456789",
+            "address": "Lucknow, Uttar Pradesh"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Karan Kapoor",
+            "email": "karan.k@yopmail.com",
+            "password": "Password@333",
+            "phone": "6123456789",
+            "address": "Ahmedabad, Gujarat"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Tanvi Shah",
+            "email": "tanvi.s@yopmail.com",
+            "password": "Password@444",
+            "phone": "9234567890",
+            "address": "Surat, Gujarat"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Aditya Rao",
+            "email": "aditya.r@yopmail.com",
+            "password": "Password@555",
+            "phone": "8234567890",
+            "address": "Mysore, Karnataka"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Zoya Khan",
+            "email": "zoya.k@yopmail.com",
+            "password": "Password@666",
+            "phone": "7234567890",
+            "address": "Bhopal, Madhya Pradesh"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Manish Pandey",
+            "email": "manish.p@yopmail.com",
+            "password": "Password@777",
+            "phone": "6234567890",
+            "address": "Patna, Bihar"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Kavita Bisht",
+            "email": "kavita.b@yopmail.com",
+            "password": "Password@888",
+            "phone": "9345678901",
+            "address": "Dehradun, Uttarakhand"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Deepak Chawla",
+            "email": "deepak.c@yopmail.com",
+            "password": "Password@999",
+            "phone": "8345678901",
+            "address": "Gurgaon, Haryana"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Simran Kaur",
+            "email": "simran.k@yopmail.com",
+            "password": "Password@121",
+            "phone": "7345678901",
+            "address": "Amritsar, Punjab"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Farhan Sheikh",
+            "email": "farhan.s@yopmail.com",
+            "password": "Password@131",
+            "phone": "6345678901",
+            "address": "Indore, Madhya Pradesh"
+        }
+    }
+]

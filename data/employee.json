@@ -1,0 +1,63 @@
+{
+    "credentials": {
+        "email": "sahabaj@yopmail.com",
+        "password": "Password@800"
+    },
+    "employees": [
+        {
+            "name": "john cenna",
+            "role": "QA",
+            "phone": "9857458965"
+        },
+        {
+            "name": "emma watson",
+            "role": "Developer",
+            "phone": "9812345678"
+        },
+        {
+            "name": "liam johnson",
+            "role": "Designer",
+            "phone": "9823456789"
+        },
+        {
+            "name": "olivia smith",
+            "role": "Manager",
+            "phone": "9834567890"
+        },
+        {
+            "name": "noah williams",
+            "role": "DevOps",
+            "phone": "9845678901"
+        },
+        {
+            "name": "ava brown",
+            "role": "Tester",
+            "phone": "9856789012"
+        },
+        {
+            "name": "james davis",
+            "role": "Business Analyst",
+            "phone": "9867890123"
+        },
+        {
+            "name": "sophia miller",
+            "role": "HR",
+            "phone": "9878901234"
+        },
+        {
+            "name": "benjamin wilson",
+            "role": "Scrum Master",
+            "phone": "9889012345"
+        },
+        {
+            "name": "isabella moore",
+            "role": "Product Owner",
+            "phone": "9890123456"
+        },
+        {
+            "name": "lucas taylor",
+            "role": "Field Technician",
+            "phone": "9801234567"
+        }
+    ]
+}
