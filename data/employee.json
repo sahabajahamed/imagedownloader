@@ -7,57 +7,302 @@
         {
             "name": "john cenna",
             "role": "QA",
-            "phone": "9857458965"
+            "phone": "9857458965",
+            "email": "john.cenna@yopmail.com"
         },
         {
             "name": "emma watson",
             "role": "Developer",
-            "phone": "9812345678"
+            "phone": "9812345678",
+            "email": "emma.watson@yopmail.com"
         },
         {
             "name": "liam johnson",
             "role": "Designer",
-            "phone": "9823456789"
+            "phone": "9823456789",
+            "email": "liam.johnson@yopmail.com"
         },
         {
             "name": "olivia smith",
             "role": "Manager",
-            "phone": "9834567890"
+            "phone": "9834567890",
+            "email": "olivia.smith@yopmail.com"
         },
         {
             "name": "noah williams",
             "role": "DevOps",
-            "phone": "9845678901"
+            "phone": "9845678901",
+            "email": "noah.williams@yopmail.com"
         },
         {
             "name": "ava brown",
             "role": "Tester",
-            "phone": "9856789012"
+            "phone": "9856789012",
+            "email": "ava.brown@yopmail.com"
         },
         {
             "name": "james davis",
             "role": "Business Analyst",
-            "phone": "9867890123"
+            "phone": "9867890123",
+            "email": "james.davis@yopmail.com"
         },
         {
             "name": "sophia miller",
             "role": "HR",
-            "phone": "9878901234"
+            "phone": "9878901234",
+            "email": "sophia.miller@yopmail.com"
         },
         {
             "name": "benjamin wilson",
             "role": "Scrum Master",
-            "phone": "9889012345"
+            "phone": "9889012345",
+            "email": "benjamin.wilson@yopmail.com"
         },
         {
             "name": "isabella moore",
             "role": "Product Owner",
-            "phone": "9890123456"
+            "phone": "9890123456",
+            "email": "isabella.moore@yopmail.com"
         },
         {
             "name": "lucas taylor",
             "role": "Field Technician",
-            "phone": "9801234567"
+            "phone": "9801234567",
+            "email": "lucas.taylor@yopmail.com"
+        },
+        {
+            "name": "amelia anderson",
+            "role": "UI Designer",
+            "phone": "9812345670",
+            "email": "amelia.anderson@yopmail.com"
+        },
+        {
+            "name": "elijah thomas",
+            "role": "Backend Developer",
+            "phone": "9823456780",
+            "email": "elijah.thomas@yopmail.com"
+        },
+        {
+            "name": "mia jackson",
+            "role": "Frontend Developer",
+            "phone": "9834567891",
+            "email": "mia.jackson@yopmail.com"
+        },
+        {
+            "name": "mason white",
+            "role": "Database Admin",
+            "phone": "9845678902",
+            "email": "mason.white@yopmail.com"
+        },
+        {
+            "name": "charlotte harris",
+            "role": "Security Analyst",
+            "phone": "9856789013",
+            "email": "charlotte.harris@yopmail.com"
+        },
+        {
+            "name": "ethan martin",
+            "role": "Network Engineer",
+            "phone": "9867890124",
+            "email": "ethan.martin@yopmail.com"
+        },
+        {
+            "name": "harper thompson",
+            "role": "Support Engineer",
+            "phone": "9878901235",
+            "email": "harper.thompson@yopmail.com"
+        },
+        {
+            "name": "alexander garcia",
+            "role": "System Architect",
+            "phone": "9889012346",
+            "email": "alexander.garcia@yopmail.com"
+        },
+        {
+            "name": "evelyn martinez",
+            "role": "Data Scientist",
+            "phone": "9890123457",
+            "email": "evelyn.martinez@yopmail.com"
+        },
+        {
+            "name": "daniel robinson",
+            "role": "AI Engineer",
+            "phone": "9801234568",
+            "email": "daniel.robinson@yopmail.com"
+        },
+        {
+            "name": "abigail clark",
+            "role": "Cloud Engineer",
+            "phone": "9812345679",
+            "email": "abigail.clark@yopmail.com"
+        },
+        {
+            "name": "matthew rodriguez",
+            "role": "IT Support",
+            "phone": "9823456781",
+            "email": "matthew.rodriguez@yopmail.com"
+        },
+        {
+            "name": "emily lewis",
+            "role": "Technical Writer",
+            "phone": "9834567892",
+            "email": "emily.lewis@yopmail.com"
+        },
+        {
+            "name": "jack walker",
+            "role": "Quality Lead",
+            "phone": "9845678903",
+            "email": "jack.walker@yopmail.com"
+        },
+        {
+            "name": "ella hall",
+            "role": "Release Manager",
+            "phone": "9856789014",
+            "email": "ella.hall@yopmail.com"
+        },
+        {
+            "name": "owen allen",
+            "role": "Mobile Developer",
+            "phone": "9867890125",
+            "email": "owen.allen@yopmail.com"
+        },
+        {
+            "name": "grace young",
+            "role": "UX Researcher",
+            "phone": "9878901236",
+            "email": "grace.young@yopmail.com"
+        },
+        {
+            "name": "logan hernandez",
+            "role": "Game Developer",
+            "phone": "9889012347",
+            "email": "logan.hernandez@yopmail.com"
+        },
+        {
+            "name": "lily king",
+            "role": "SEO Specialist",
+            "email": "lily.king@yopmail.com",
+            "phone": "9890123458"
+        },
+        {
+            "name": "carter wright",
+            "role": "Digital Marketer",
+            "phone": "9801234569",
+            "email": "carter.wright@yopmail.com"
+        },
+        {
+            "name": "chloe lopez",
+            "role": "Content Creator",
+            "phone": "9812345680",
+            "email": "chloe.lopez@yopmail.com"
+        },
+        {
+            "name": "jayden hill",
+            "role": "Sales Executive",
+            "phone": "9823456782",
+            "email": "jayden.hill@yopmail.com"
+        },
+        {
+            "name": "zoey scott",
+            "role": "Customer Success",
+            "phone": "9834567893",
+            "email": "zoey.scott@yopmail.com"
+        },
+        {
+            "name": "luke green",
+            "role": "Account Manager",
+            "phone": "9845678904",
+            "email": "luke.green@yopmail.com"
+        },
+        {
+            "name": "natalie adams",
+            "role": "Finance Analyst",
+            "phone": "9856789015",
+            "email": "natalie.adams@yopmail.com"
+        },
+        {
+            "name": "david baker",
+            "role": "Legal Advisor",
+            "phone": "9867890126",
+            "email": "david.baker@yopmail.com"
+        },
+        {
+            "name": "victoria gonzalez",
+            "role": "Operations Manager",
+            "phone": "9878901237",
+            "email": "victoria.gonzalez@yopmail.com"
+        },
+        {
+            "name": "andrew nelson",
+            "role": "Project Coordinator",
+            "phone": "9889012348",
+            "email": "andrew.nelson@yopmail.com"
+        },
+        {
+            "name": "madison carter",
+            "role": "Training Specialist",
+            "phone": "9890123459",
+            "email": "madison.carter@yopmail.com"
+        },
+        {
+            "name": "joseph mitchell",
+            "role": "Compliance Officer",
+            "phone": "9801234570",
+            "email": "joseph.mitchell@yopmail.com"
+        },
+        {
+            "name": "audrey perez",
+            "role": "Recruiter",
+            "phone": "9812345681",
+            "email": "audrey.perez@yopmail.com"
+        },
+        {
+            "name": "samuel roberts",
+            "role": "Procurement Lead",
+            "phone": "9823456783",
+            "email": "samuel.roberts@yopmail.com"
+        },
+        {
+            "name": "hannah turner",
+            "role": "Logistics Coordinator",
+            "phone": "9834567894",
+            "email": "hannah.turner@yopmail.com"
+        },
+        {
+            "name": "christopher phillips",
+            "role": "Warehouse Manager",
+            "phone": "9845678905",
+            "email": "christopher.phillips@yopmail.com"
+        },
+        {
+            "name": "addison campbell",
+            "role": "Inventory Analyst",
+            "phone": "9856789016",
+            "email": "addison.campbell@yopmail.com"
+        },
+        {
+            "name": "anthony parker",
+            "role": "Quality Inspector",
+            "phone": "9867890127",
+            "email": "anthony.parker@yopmail.com"
+        },
+        {
+            "name": "samantha evans",
+            "role": "R&D Engineer",
+            "phone": "9878901238",
+            "email": "samantha.evans@yopmail.com"
+        },
+        {
+            "name": "gabriel edwards",
+            "role": "Hardware Engineer",
+            "phone": "9889012349",
+            "email": "gabriel.edwards@yopmail.com"
+        },
+        {
+            "name": "leah collins",
+            "role": "Embedded Engineer",
+            "phone": "9890123460",
+            "email": "leah.collins@yopmail.com"
         }
     ]
 }
