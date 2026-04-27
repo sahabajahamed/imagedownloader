@@ -1,0 +1,23 @@
+{
+    "validCredentials": {
+        "email": "sahabaj@yopmail.com",
+        "password": "Password@800"
+    },
+    "invalidCredentials": [
+        {
+            "name": "invalid email and valid password",
+            "email": "invalid.user@yopmail.com",
+            "password": "Password@800"
+        },
+        {
+            "name": "valid email and invalid password",
+            "email": "sahabaj@yopmail.com",
+            "password": "WrongPassword@123"
+        },
+        {
+            "name": "invalid email and invalid password",
+            "email": "invalid.user@yopmail.com",
+            "password": "WrongPassword@123"
+        }
+    ]
+}
