@@ -1,272 +1,452 @@
 [
     {
         "validSupervisor": {
-            "name": "Arjun Mehta",
-            "email": "arjun.sup@yopmail.com",
+            "name": "Ahmed Al-Husseini",
+            "email": "ahmed.husseini@yopmail.com",
             "password": "Password@800",
-            "phone": "9876543210",
-            "address": "Mumbai, Maharashtra"
+            "phone": "501234567",
+            "address": "Ramallah, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Priya Sharma",
-            "email": "priya.work@yopmail.com",
+            "name": "Fatima Al-Mansoori",
+            "email": "fatima.mansoori@yopmail.com",
             "password": "Password@800",
-            "phone": "8765432109",
-            "address": "Delhi, NCR"
+            "phone": "502345678",
+            "address": "Abu Dhabi, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Rahul Verma",
-            "email": "rahul.v@yopmail.com",
+            "name": "Mohammed Al-Masri",
+            "email": "mohammed.masri@yopmail.com",
             "password": "Password@800",
-            "phone": "7654321098",
-            "address": "Bangalore, Karnataka"
+            "phone": "503456789",
+            "address": "Gaza, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Ananya Iyer",
-            "email": "ananya.i@yopmail.com",
+            "name": "Layla Al-Qasimi",
+            "email": "layla.qasimi@yopmail.com",
             "password": "Password@800",
-            "phone": "6543210987",
-            "address": "Chennai, Tamil Nadu"
+            "phone": "504567890",
+            "address": "Dubai, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Vikram Singh",
-            "email": "vikram.s@yopmail.com",
+            "name": "Omar Abdel-Rahman",
+            "email": "omar.rahman@yopmail.com",
             "password": "Password@800",
-            "phone": "9988776655",
-            "address": "Jaipur, Rajasthan"
+            "phone": "505678901",
+            "address": "Hebron, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Sneha Reddy",
-            "email": "sneha.r@yopmail.com",
+            "name": "Nadia Al-Nuaimi",
+            "email": "nadia.nuaimi@yopmail.com",
             "password": "Password@800",
-            "phone": "8877665544",
-            "address": "Hyderabad, Telangana"
+            "phone": "506789012",
+            "address": "Sharjah, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Amit Das",
-            "email": "amit.das@yopmail.com",
+            "name": "Khaled Al-Barghouti",
+            "email": "khaled.barghouti@yopmail.com",
             "password": "Password@800",
-            "phone": "7766554433",
-            "address": "Kolkata, West Bengal"
+            "phone": "507890123",
+            "address": "Nablus, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Rohan Joshi",
-            "email": "rohan.j@yopmail.com",
+            "name": "Hind Al-Maktoum",
+            "email": "hind.maktoum@yopmail.com",
             "password": "Password@800",
-            "phone": "6655443322",
-            "address": "Pune, Maharashtra"
+            "phone": "508901234",
+            "address": "Ajman, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Meera Nair",
-            "email": "meera.n@yopmail.com",
+            "name": "Youssef Al-Khalidi",
+            "email": "youssef.khalidi@yopmail.com",
             "password": "Password@800",
-            "phone": "9123456780",
-            "address": "Kochi, Kerala"
+            "phone": "509012345",
+            "address": "Bethlehem, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Siddharth Malhotra",
-            "email": "sid.m@yopmail.com",
+            "name": "Aisha Al-Zaabi",
+            "email": "aisha.zaabi@yopmail.com",
             "password": "Password@800",
-            "phone": "8123456789",
-            "address": "Chandigarh, Punjab"
+            "phone": "510123456",
+            "address": "Ras Al Khaimah, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Ishita Gupta",
-            "email": "ishita.g@yopmail.com",
+            "name": "Hassan Jarrar",
+            "email": "hassan.jarrar@yopmail.com",
             "password": "Password@800",
-            "phone": "7123456789",
-            "address": "Lucknow, Uttar Pradesh"
+            "phone": "511234567",
+            "address": "Jenin, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Karan Kapoor",
-            "email": "karan.k@yopmail.com",
+            "name": "Mariam Al-Suwaidi",
+            "email": "mariam.suwaidi@yopmail.com",
             "password": "Password@800",
-            "phone": "6123456789",
-            "address": "Ahmedabad, Gujarat"
+            "phone": "512345678",
+            "address": "Fujairah, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Tanvi Shah",
-            "email": "tanvi.s@yopmail.com",
+            "name": "Ibrahim Al-Araj",
+            "email": "ibrahim.araj@yopmail.com",
             "password": "Password@800",
-            "phone": "9234567890",
-            "address": "Surat, Gujarat"
+            "phone": "513456789",
+            "address": "Tulkarm, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Aditya Rao",
-            "email": "aditya.r@yopmail.com",
+            "name": "Amna Al-Hamadi",
+            "email": "amna.hamadi@yopmail.com",
             "password": "Password@800",
-            "phone": "8234567890",
-            "address": "Mysore, Karnataka"
+            "phone": "514567890",
+            "address": "Umm Al Quwain, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Zoya Khan",
-            "email": "zoya.k@yopmail.com",
+            "name": "Bilal Al-Ashqar",
+            "email": "bilal.ashqar@yopmail.com",
             "password": "Password@800",
-            "phone": "7234567890",
-            "address": "Bhopal, Madhya Pradesh"
+            "phone": "515678901",
+            "address": "Qalqilya, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Manish Pandey",
-            "email": "manish.p@yopmail.com",
+            "name": "Reem Al-Balushi",
+            "email": "reem.balushi@yopmail.com",
             "password": "Password@800",
-            "phone": "6234567890",
-            "address": "Patna, Bihar"
+            "phone": "516789012",
+            "address": "Al Ain, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Kavita Bisht",
-            "email": "kavita.b@yopmail.com",
+            "name": "Tareq Al-Dahdouh",
+            "email": "tareq.dahdouh@yopmail.com",
             "password": "Password@800",
-            "phone": "9345678901",
-            "address": "Dehradun, Uttarakhand"
+            "phone": "517890123",
+            "address": "Rafah, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Deepak Chawla",
-            "email": "deepak.c@yopmail.com",
+            "name": "Maitha Al-Ketbi",
+            "email": "maitha.ketbi@yopmail.com",
             "password": "Password@800",
-            "phone": "8345678901",
-            "address": "Gurgaon, Haryana"
+            "phone": "518901234",
+            "address": "Khor Fakkan, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Simran Kaur",
-            "email": "simran.k@yopmail.com",
+            "name": "Saif Al-Din Abu Sharia",
+            "email": "saif.sharia@yopmail.com",
             "password": "Password@800",
-            "phone": "7345678901",
-            "address": "Amritsar, Punjab"
+            "phone": "519012345",
+            "address": "Khan Yunis, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Farhan Sheikh",
-            "email": "farhan.s@yopmail.com",
+            "name": "Mona Al-Maazmi",
+            "email": "mona.maazmi@yopmail.com",
             "password": "Password@800",
-            "phone": "6345678901",
-            "address": "Indore, Madhya Pradesh"
+            "phone": "520123456",
+            "address": "Dibba, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Neha Gupta",
-            "email": "neha.g@yopmail.com",
+            "name": "Ayman Al-Houdali",
+            "email": "ayman.houdali@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781230",
-            "address": "Nagpur, Maharashtra"
+            "phone": "521234567",
+            "address": "Deir Al-Balah, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Ravi Shankar",
-            "email": "ravi.s@yopmail.com",
+            "name": "Shamsa Al-Muhairi",
+            "email": "shamsa.muhairi@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781231",
-            "address": "Varanasi, Uttar Pradesh"
+            "phone": "522345678",
+            "address": "Madinat Zayed, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Pooja Yadav",
-            "email": "pooja.y@yopmail.com",
+            "name": "Rami Habash",
+            "email": "rami.habash@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781232",
-            "address": "Agra, Uttar Pradesh"
+            "phone": "523456789",
+            "address": "Salfit, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Alok Nath",
-            "email": "alok.n@yopmail.com",
+            "name": "Mouza Al-Marzouqi",
+            "email": "mouza.marzouqi@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781233",
-            "address": "Nashik, Maharashtra"
+            "phone": "524567890",
+            "address": "Liwa, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Divya Menon",
-            "email": "divya.m@yopmail.com",
+            "name": "Nader Al-Atawneh",
+            "email": "nader.atawneh@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781234",
-            "address": "Thiruvananthapuram, Kerala"
+            "phone": "525678901",
+            "address": "Tubas, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Raj Thakur",
-            "email": "raj.t@yopmail.com",
+            "name": "Latifa Al-Shamsi",
+            "email": "latifa.shamsi@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781235",
-            "address": "Jabalpur, Madhya Pradesh"
+            "phone": "526789012",
+            "address": "Hatta, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Swati Verma",
-            "email": "swati.v@yopmail.com",
+            "name": "Walid Darwish",
+            "email": "walid.darwish@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781236",
-            "address": "Ranchi, Jharkhand"
+            "phone": "527890123",
+            "address": "Jericho, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Gaurav Singh",
-            "email": "gaurav.s@yopmail.com",
+            "name": "Maryam Al-Hosani",
+            "email": "maryam.hosani@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781237",
-            "address": "Bhubaneswar, Odisha"
+            "phone": "528901234",
+            "address": "Kalba, UAE"
         }
     },
     {
         "validSupervisor": {
-            "name": "Ritu Agarwal",
-            "email": "ritu.a@yopmail.com",
+            "name": "Mahmoud Al-Shaer",
+            "email": "mahmoud.shaer@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781238",
-            "address": "Raipur, Chhattisgarh"
+            "phone": "529012345",
+            "address": "Yatta, Palestine"
         }
     },
     {
         "validSupervisor": {
-            "name": "Varun Khanna",
-            "email": "varun.k@yopmail.com",
+            "name": "Rawda Al-Dhaheri",
+            "email": "rawda.dhaheri@yopmail.com",
             "password": "Password@800",
-            "phone": "9456781239",
-            "address": "Jodhpur, Rajasthan"
+            "phone": "530123456",
+            "address": "Masafi, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Abed Al-Rahman Shalabi",
+            "email": "abed.shalabi@yopmail.com",
+            "password": "Password@800",
+            "phone": "531234567",
+            "address": "Dura, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Alyazia Al-Kaabi",
+            "email": "alyazia.kaabi@yopmail.com",
+            "password": "Password@800",
+            "phone": "532345678",
+            "address": "Ruwais, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Salah Abu Safia",
+            "email": "salah.safia@yopmail.com",
+            "password": "Password@800",
+            "phone": "533456789",
+            "address": "Beit Hanoun, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Noura Al-Yafei",
+            "email": "noura.yafei@yopmail.com",
+            "password": "Password@800",
+            "phone": "534567890",
+            "address": "Ghayathi, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Fadi Amro",
+            "email": "fadi.amro@yopmail.com",
+            "password": "Password@800",
+            "phone": "535678901",
+            "address": "Halhul, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Osha Al-Shehhi",
+            "email": "osha.shehhi@yopmail.com",
+            "password": "Password@800",
+            "phone": "536789012",
+            "address": "Sweihan, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Rashid Tamraz",
+            "email": "rashid.tamraz@yopmail.com",
+            "password": "Password@800",
+            "phone": "537890123",
+            "address": "Beit Jala, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Buthaina Al-Najjar",
+            "email": "buthaina.najjar@yopmail.com",
+            "password": "Password@800",
+            "phone": "538901234",
+            "address": "Zaabeel, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Sami Al-Hourani",
+            "email": "sami.hourani@yopmail.com",
+            "password": "Password@800",
+            "phone": "539012345",
+            "address": "Bethany, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Afra Al-Rumaithi",
+            "email": "afra.rumaithi@yopmail.com",
+            "password": "Password@800",
+            "phone": "540123456",
+            "address": "Al Dhafra, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Marwan Al-Natsheh",
+            "email": "marwan.natsheh@yopmail.com",
+            "password": "Password@800",
+            "phone": "541234567",
+            "address": "Al Bireh, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Meera Al-Badi",
+            "email": "meera.badi@yopmail.com",
+            "password": "Password@800",
+            "phone": "542345678",
+            "address": "Jebel Ali, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Ziad Khalil",
+            "email": "ziad.khalil@yopmail.com",
+            "password": "Password@800",
+            "phone": "543456789",
+            "address": "Anabta, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Salama Al-Dhaheri",
+            "email": "salama.dhaheri@yopmail.com",
+            "password": "Password@800",
+            "phone": "544567890",
+            "address": "Al Salam, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Eman Al-Khatib",
+            "email": "eman.khatib@yopmail.com",
+            "password": "Password@800",
+            "phone": "545678901",
+            "address": "Abasan, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Hamad Al-Marzooqi",
+            "email": "hamad.marzooqi@yopmail.com",
+            "password": "Password@800",
+            "phone": "546789012",
+            "address": "Al Hamra, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Nael Jabr",
+            "email": "nael.jabr@yopmail.com",
+            "password": "Password@800",
+            "phone": "547890123",
+            "address": "Beit Sahour, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Khawla Al-Mehri",
+            "email": "khawla.mehri@yopmail.com",
+            "password": "Password@800",
+            "phone": "548901234",
+            "address": "Sila, UAE"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Izzat Al-Farra",
+            "email": "izzat.farra@yopmail.com",
+            "password": "Password@800",
+            "phone": "549012345",
+            "address": "Al-Zahra, Palestine"
+        }
+    },
+    {
+        "validSupervisor": {
+            "name": "Maktoum Al-Falasi",
+            "email": "maktoum.falasi@yopmail.com",
+            "password": "Password@800",
+            "phone": "550123456",
+            "address": "Al Lisaili, UAE"
         }
     }
 ]

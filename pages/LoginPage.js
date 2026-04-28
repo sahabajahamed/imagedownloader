@@ -14,7 +14,7 @@ export class LoginPage {
     }
 
     async goto() {
-        await this.page.goto('https://company-admin-a87d4.web.app/login');
+        await this.page.goto('/login');
     }
 
     /**

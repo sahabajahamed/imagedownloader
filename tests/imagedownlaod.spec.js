@@ -8,7 +8,7 @@ const MIN_IMAGES_BEFORE_LOAD_MORE = 5;
 const LOAD_MORE_SELECTOR = 'button:has-text("Load more"), a:has-text("Load more"), [role="button"]:has-text("Load more")';
 
 // 🔥 CHANGE URL HERE ONLY
-const SEARCH_URL = 'https://unsplash.com/s/photos/gym workouts';
+const SEARCH_URL = 'https://unsplash.com/s/photos/muslim-women';
 
 test.setTimeout(300000);
 

@@ -11,7 +11,7 @@ test.describe('Supervisor Tests', () => {
 
         await loginPage.goto();
         await loginPage.login(
-            'sahabaj@yopmail.com',   // 🔁 replace
+            'dhl@yopmail.com',   // 🔁 replace
             'Password@800'            // 🔁 replace
         );
 

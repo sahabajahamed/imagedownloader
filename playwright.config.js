@@ -1,6 +1,8 @@
 // @ts-check
 import { defineConfig, devices } from '@playwright/test';
 
+const baseURL = process.env.BASE_URL || 'https://company-admin-a87d4.web.app';
+
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -27,7 +29,7 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('')`. */
-    // baseURL: 'http://localhost:3000',
+    baseURL,
 
     /* Keep tests non-interactive so browsers do not stay open after execution. */
     headless: true,
